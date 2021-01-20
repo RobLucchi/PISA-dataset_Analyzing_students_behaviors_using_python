@@ -27,6 +27,21 @@ reading, mathematics, and science representing about 28 million 15-year-olds glo
 I selected some features related to family status, working ethics, Teacher support, 
 student view of the school, and attitudes to failer.
 
+### Methods Used
+* Feature engineering
+* Data Visualization
+  - Univariate Exploration
+  - Bivariate Exploration
+  - Multivariate Exploration
+* etc.
+
+### Technologies
+* Python
+* Pandas, , Numpy
+* Matplotlib, Seaborn
+* jupyter
+* etc. 
+
 ## Summary of Findings
 
 In the exploration phase, I was already selecting what I will analyze in students. I selected age, gender, family at home, country, father, and mother work status. And some students' behaviors like teacher support, work ethics, feeling lonely, awkward, outsider, and how they are satisfied at school. 
