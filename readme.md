@@ -11,8 +11,8 @@
 
 
 * [Dataset](#dataset)
-* [Summary of Findings](#summary_of_findings)
-* [Key Insights for Presentation](#key_insights_for_presentation)
+* [Summary of Findings](#summary-of-findings)
+* [Key Insights for Presentation](#key-insights-for-presentation)
 
 ## Dataset
 
