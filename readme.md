@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.oecd.org/pisa/">
     
-  ![PISA](/imgs/PISA.PNG)
+  ![PISA](/imgs/PISA.jpg)
   
   </a>
 </p>
@@ -35,8 +35,8 @@ and Teacher Support.
 
 ## Summary of Findings
 
-![Image description](/imgs/Sample2.PNG)
-![Image description](/imgs/Sample.PNG)
+![Image description](/imgs/Sample2.png)
+![Image description](/imgs/Sample.png)
 
 ## Key Insights for Presentation
 
