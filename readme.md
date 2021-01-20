@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://www.oecd.org/pisa/" align="center">
+  <a href="https://www.oecd.org/pisa/">
     
-  ![PISA](/imgs/PISA.jpg)
+  ![PISA](/imgs/pisa_logo.png)
   
   </a>
 </p>
@@ -27,7 +27,7 @@ reading, mathematics, and science representing about 28 million 15-year-olds glo
 I selected some features related to family status, working ethics, Teacher support, 
 student view of the school, and attitudes to failer.
 
-## summary
+## summary of Findings
 
 ![Image description](/imgs/Sample.png)
 
@@ -39,7 +39,7 @@ and Teacher Support.
 ![Image description](/imgs/Sample2.png)
 
 
-## key
+## key Insights for Presentation
 
 * Students without parents
 * Students without one of the parents
