@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.oecd.org/pisa/">
+  <a href="https://www.oecd.org/pisa/" align="center">
     
   ![PISA](/imgs/PISA.jpg)
   
@@ -12,7 +12,7 @@
 
 * [Dataset](#dataset)
 * [Summary of Findings](#summary)
-* [Key](#Key Insights for Presentation)
+* [Key Insights for Presentation](#key)
 
 ## Dataset
 
@@ -27,16 +27,19 @@ reading, mathematics, and science representing about 28 million 15-year-olds glo
 I selected some features related to family status, working ethics, Teacher support, 
 student view of the school, and attitudes to failer.
 
-## Summary of Findings
+## summary
 
 ![Image description](/imgs/Sample.png)
+
+<br>
+
 I have found an interesting relation between Family members not at home and Work Ethics 
 and Teacher Support.
 
 ![Image description](/imgs/Sample2.png)
 
 
-## Key
+## key
 
 * Students without parents
 * Students without one of the parents
