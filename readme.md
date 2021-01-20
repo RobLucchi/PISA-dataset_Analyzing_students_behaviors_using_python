@@ -1,18 +1,16 @@
-<p align="center">
-  <a href="https://www.oecd.org/pisa/">
-    
+<p>
+  <a href="https://www.oecd.org/pisa/">  
   ![PISA](/imgs/pisa_logo.png)
-  
   </a>
 </p>
 
-<h2 align="center">Investigating Students Behaviors using PISA Dataset</h2>
-<h4 align="center">By Ahmed Alaa Mousa</h4>
+# Investigating Students Behaviors using PISA Dataset
+### By Ahmed Alaa Mousa
 
 
 * [Dataset](#dataset)
-* [Summary of Findings](#Summary of Findings)
-* [Key Insights for Presentation](#key)
+* [Summary of Findings](#summary_of_Findings)
+* [Key Insights for Presentation](#Key_insights_for_Presentation)
 
 ## Dataset
 
@@ -29,14 +27,19 @@ student view of the school, and attitudes to failer.
 
 ## summary of Findings
 
-![Image description](/imgs/Sample.png)
+In the exploration phase, I was already selecting what I will analyze in students. I selected age, gender, family at home, country, father, and mother work status. And some students' behaviors like teacher support, work ethics, feeling lonely, awkward, outsider, and how they are satisfied at school. 
 
-<br>
+I then analyze each feature alone, looking at its shape, distribution, and overall effectiveness in my further analysis, I found gender, the family at home, and family work status were very interesting and I wanted to compare them with students behaviors, also there were very high null values so I tried to be careful when I do feature engineering.
 
-I have found an interesting relation between Family members not at home and Work Ethics 
-and Teacher Support.
+Also, I was interested in siblings and whether this is different in having siblings or not having at all will affect students' work ethics.
 
 ![Image description](/imgs/Sample2.png)
+
+
+then I started to check relations with multiple variables like single parent's (work status) vs the other parents' existence and the gender vs students' behaviors 
+that was very exciting 
+
+
 
 
 ## key Insights for Presentation
@@ -44,3 +47,9 @@ and Teacher Support.
 * Students without parents
 * Students without one of the parents
 * teacher Support effect on student
+
+
+![Image description](/imgs/Sample.png)
+
+
+
