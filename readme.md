@@ -1,6 +1,8 @@
 <p>
   <a href="https://www.oecd.org/pisa/">  
+    
   ![PISA](/imgs/pisa_logo.png)
+  
   </a>
 </p>
 
@@ -9,8 +11,8 @@
 
 
 * [Dataset](#dataset)
-* [Summary of Findings](#summary_of_Findings)
-* [Key Insights for Presentation](#Key_insights_for_Presentation)
+* [Summary of Findings](#summary_of_findings)
+* [Key Insights for Presentation](#key_insights_for_presentation)
 
 ## Dataset
 
@@ -25,7 +27,7 @@ reading, mathematics, and science representing about 28 million 15-year-olds glo
 I selected some features related to family status, working ethics, Teacher support, 
 student view of the school, and attitudes to failer.
 
-## summary of Findings
+## Summary of Findings
 
 In the exploration phase, I was already selecting what I will analyze in students. I selected age, gender, family at home, country, father, and mother work status. And some students' behaviors like teacher support, work ethics, feeling lonely, awkward, outsider, and how they are satisfied at school. 
 
@@ -42,7 +44,7 @@ that was very exciting
 
 
 
-## key Insights for Presentation
+## Key Insights for Presentation
 
 * Students without parents
 * Students without one of the parents
