@@ -11,9 +11,8 @@
 
 
 * [Dataset](#dataset)
-* [Summary of Findings](#Summary of Findings)
-* [Screanshots](#[screanshots])
-* [Key Insights for Presentation](#Key Insights for Presentation)
+* [Summary of Findings](#summary)
+* [Key](#Key Insights for Presentation)
 
 ## Dataset
 
@@ -30,15 +29,14 @@ student view of the school, and attitudes to failer.
 
 ## Summary of Findings
 
+![Image description](/imgs/Sample.png)
 I have found an interesting relation between Family members not at home and Work Ethics 
 and Teacher Support.
 
-## Summary of Findings
-
 ![Image description](/imgs/Sample2.png)
-![Image description](/imgs/Sample.png)
 
-## Key Insights for Presentation
+
+## Key
 
 * Students without parents
 * Students without one of the parents
